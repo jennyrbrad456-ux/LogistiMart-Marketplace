@@ -10,7 +10,7 @@ A modern Python 3 marketplace web application designed to connect buyers and sel
 - User authentication (signup/login)
 - Product listing and search
 - Shopping cart and checkout
-- Payment integration (Stripe/PayPal)
+- Payment integration (Btc/Usdt)
 - Admin dashboard for managing products and orders
 - Responsive design for mobile and desktop
 
